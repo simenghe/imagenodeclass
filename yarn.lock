@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+"@tensorflow-models/mobilenet@^2.0.3":
+  version "2.0.3"
+  resolved "https://registry.yarnpkg.com/@tensorflow-models/mobilenet/-/mobilenet-2.0.3.tgz#c5424358e32cc4a51b82468c17711b7026fd004c"
+  integrity sha512-gvj7qk1222eo0clUUJODDGLIe0RXIPuLT3VpO0krRfAjMa9MA/7bDLHUQCx7nZ8baIdvWrquTZFpNJfs36Gyfg==
+
 "@tensorflow/tfjs-converter@1.2.7":
   version "1.2.7"
   resolved "https://registry.yarnpkg.com/@tensorflow/tfjs-converter/-/tfjs-converter-1.2.7.tgz#3a1cf6d636667586010c4df79e861293ce10c4c8"
@@ -298,6 +303,11 @@ isarray@~1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/isarray/-/isarray-1.0.0.tgz#bb935d48582cba168c06834957a54a3e07124f11"
   integrity sha1-u5NdSFgsuhaMBoNJV6VKPgcSTxE=
+
+jpeg-js@^0.3.6:
+  version "0.3.6"
+  resolved "https://registry.yarnpkg.com/jpeg-js/-/jpeg-js-0.3.6.tgz#c40382aac9506e7d1f2d856eb02f6c7b2a98b37c"
+  integrity sha512-MUj2XlMB8kpe+8DJUGH/3UJm4XpI8XEgZQ+CiHDeyrGoKPdW/8FJv6ku+3UiYm5Fz3CWaL+iXmD8Q4Ap6aC1Jw==
 
 minimatch@^3.0.4:
   version "3.0.4"

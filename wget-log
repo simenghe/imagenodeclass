@@ -1,0 +1,11 @@
+--2019-08-13 13:53:15--  https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcdn-image.travelandleisure.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2F1600x1000%2Fpublic%2F1529433287%2Fbarack-obama-books-OBAMABOOKS0618.jpg%3Fitok%3DQkyCoT7d
+Resolving imagesvc.meredithcorp.io (imagesvc.meredithcorp.io)... 99.84.216.30, 99.84.216.14, 99.84.216.16, ...
+Connecting to imagesvc.meredithcorp.io (imagesvc.meredithcorp.io)|99.84.216.30|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘image?url=https:%2F%2Fcdn-image.travelandleisure.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2F1600x1000%2Fpublic%2F1529433287%2Fbarack-obama-books-OBAMABOOKS0618.jpg?itok=QkyCoT7d’
+
+          image?url     [<=>                 ]       0  --.-KB/s               image?url=https:%2F     [ <=>                ] 152.30K  --.-KB/s    in 0.1s    
+
+2019-08-13 13:53:16 (1.00 MB/s) - ‘image?url=https:%2F%2Fcdn-image.travelandleisure.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2F1600x1000%2Fpublic%2F1529433287%2Fbarack-obama-books-OBAMABOOKS0618.jpg?itok=QkyCoT7d’ saved [155959]
+
